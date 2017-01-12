@@ -1,5 +1,5 @@
 # Scheduling-Algorithms
-OS and Server load bbalancing schedulers with threads
+OS and Server load balancing schedulers with threads
 
 #FCFS	 
 #IOBound	
