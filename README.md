@@ -5,4 +5,4 @@ OS and Server load balancing schedulers with threads
 *IOBound	
 *Intermediate
 *RoundRobin
-*SJF
+**SJF
